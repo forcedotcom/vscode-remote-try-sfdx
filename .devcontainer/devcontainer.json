@@ -1,5 +1,5 @@
 {
-  "name": "SFDX in Docker",
+  "name": "Salesforce Project",
   "dockerFile": "Dockerfile",
   "extensions": [
     "salesforce.salesforcedx-vscode",
