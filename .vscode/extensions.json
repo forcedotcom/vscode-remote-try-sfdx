@@ -1,8 +1,5 @@
 {
   "recommendations": [
-    "salesforce.salesforcedx-vscode",
-    "redhat.vscode-xml",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "ms-vscode-remote.vscode-remote-extensionpack"
   ]
 }
