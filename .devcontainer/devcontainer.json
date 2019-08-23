@@ -6,5 +6,6 @@
     "redhat.vscode-xml",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode"
-  ]
+  ],
+  "runArgs": ["--pull=always"]
 }
