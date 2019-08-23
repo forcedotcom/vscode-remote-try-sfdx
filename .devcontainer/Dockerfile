@@ -1,1 +1,1 @@
-FROM vazexqi/salesforcedx
+FROM salesforce/salesforcedx
