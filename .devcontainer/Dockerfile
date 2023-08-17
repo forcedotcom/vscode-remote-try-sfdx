@@ -1,1 +1,1 @@
-FROM salesforce/salesforcedx:latest-slim
+FROM salesforce/cli:latest-slim
